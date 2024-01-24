@@ -16,3 +16,4 @@ Engaging in derivatives analytics involves the essential task of market-centered
 | 📚 **Intrinsic Value** | Derived through detailed fundamental analysis, assessing a company's true worth.                                      | - Comprehensive and detailed.<br>- Long-term perspective. | - Subjective and reliant on assumptions.<br>- Time-consuming.<br>- Industry dynamics change. |
 
 
+###### Expect to end the project in 2 month ( Along with readings , and online lectures)
